@@ -39,7 +39,7 @@
 - [LinkedIn Profile](https://www.linkedin.com/in/rakesh17684/): Full work history and direct recruiter messaging.
 <!-- Uncomment and fill in exact paths once live:
 - [AI FinOps Showback Architecture](https://rakeshkrishnan.com/REPLACE-PATH): EventBridge, Lambda, S3 Cross-Account Replication, and IBM Apptio walkthrough.
-- [Medium Technical Blog](https://medium.com/@REPLACE-HANDLE): Deep dives on DevSecOps, AI FinOps, and enterprise modernization.
+- [Medium Technical Blog](https://medium.com/@confused_clarity): Deep dives on DevSecOps, AI FinOps, and enterprise modernization.
 -->
 
 ## Optional
