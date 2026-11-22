@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Rakesh 👋
+# Hi, I'm Rakesh
 
-**DevSecOps · AI-Assisted Engineering**
+**Platform & DevSecOps Engineer | AWS Serverless, Terraform, Python, GitHub Enterprise | Building secure developer platforms & AI FinOps pipelines**
 
 Designing enterprise solutions with distributed teams across the world —
 legacy code transformation, DevSecOps transitions (on-prem & cloud), and AI-assisted developer tooling.
