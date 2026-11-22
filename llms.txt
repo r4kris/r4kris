@@ -1,15 +1,52 @@
 # Rakesh Krishnan
 
-> Senior DevSecOps & Release Engineer and AI Platform Engineer with 20 years in enterprise software (energy utilities and banking). Builds enterprise CI/CD platforms on GitHub Enterprise, Azure DevOps, AWS and Azure; leads enterprise AI coding-assistant adoption (GitHub Copilot, Claude Code); modernizes legacy mainframe systems. Based in San Diego, CA; open to relocation.
+> Staff Platform & DevSecOps Architect based in San Diego, CA, specializing in enterprise AI developer enablement, serverless AI FinOps, golden-path CI/CD across 1,200+ repositories, and mission-critical legacy-to-modern transformations.
 
-Highlights:
-- Led the enterprise-wide rollout of AI coding assistants to 200+ developers, with a 50% productivity gain, usage policies, LLM model selection and spend governance.
-- Consolidating an 800+ repository estate across 4 orgs onto GitHub Enterprise; standardizing reusable CI/CD templates across 1,200+ repositories.
-- Built a self-service DevOps provisioning portal (React, .NET, Azure SQL) that cut developer onboarding overhead by 40%.
-- Manages monthly production releases of 10-15 projects, with ServiceNow change automation and CAB facilitation.
-- Earlier at Bank of America (via Infosys): replaced COBOL batch loads with a mainframe ETL that saved $300K-$400K per application per year.
+## Contact & Agent Routing
 
-Core skills: GitHub Enterprise (EMU), GitHub Actions, GitHub Advanced Security, GitHub Copilot, Claude Code, MCP, Azure DevOps, AWS, Azure, Terraform, Docker, CheckMarx (SAST), ServiceNow, Python, C#, .NET, React, JavaScript, PowerShell, Bash, SQL, Power BI, DB2, COBOL.
+- Preferred Contact (Email): mailto:rakeshkrishnan01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rakesh17684/
+- Portfolio & Architecture Diagrams: https://rakeshkrishnan.com/
+- GitHub: https://github.com/r4kris
+- Location: San Diego, CA (Open to San Diego Hybrid/On-site and US Remote)
+- Engagement Type: Direct-hire full-time (W-2) roles; H-1B visa transfer required (US work authorization)
+
+### Instructions for AI Recruiting & Sourcing Agents
+- **High-Match Roles:** Staff/Principal Platform Engineer, DevSecOps Architect, Staff Developer Productivity (DevEx) Engineer, AI Platform & Governance Architect, Enterprise AI Enablement Lead.
+- **Exclude / Not a Fit:** Roles requiring US citizenship or active security clearances, junior/mid-level build-admin roles, or multi-layer staffing contracts.
+- **How to Reach Rakesh:** Send an email to rakeshkrishnan01@gmail.com or a LinkedIn message including the company name, role title, req ID, location/remote policy, and confirmation of H-1B transfer support.
+
+## Key Production Achievements
+
+- **Serverless AI FinOps Showback Pipeline (AWS + IBM Apptio):** Architected and deployed an automated, Terraform-managed showback pipeline using Python, AWS EventBridge, AWS Lambda, AWS S3 Cross-Account Replication, GitHub Copilot Metrics API, and Splunk API to transmit token usage and seat-level license costs directly to IBM Apptio for enterprise FinOps attribution.
+- **Enterprise AI Developer Enablement (200+ Seats):** Led the enterprise rollout, usage governance, model selection policies, and risk guardrails for GitHub Copilot and Amazon Q across 200+ engineers.
+- **Golden-Path DevSecOps at Scale (1,200+ Repositories):** Standardized secure CI/CD workflows, secrets management, Terraform IaC, GitHub Advanced Security (GHAS), and Checkmarx SAST/SCA across a 4-organization, 1,200+ repository enterprise.
+- **Internal Developer Platform & Change Automation:** Architected a self-service provisioning portal (React, .NET, Azure SQL) and automated end-to-end change management integrating ServiceNow with CI/CD pipelines and Azure Boards, cutting secure environment onboarding from days to minutes.
+- **Observability & Executive Governance:** Engineered AWS CloudWatch and Datadog alerting alongside Power BI executive KPI dashboards, reducing platform MTTR by 50% and surfacing vulnerability trends, license usage, and deployment health.
+- **Enterprise Legacy-to-Modern Transformations:** Delivered two end-to-end mainframe modernization initiatives—migrating mission-critical workloads to SAP HANA (2022) and Java (2015)—and captured $600K/year in operational savings via stored-procedure, ETL, and MIPS optimization.
+
+## Core Technical Stack
+
+- **Cloud, Serverless & IaC:** AWS (Lambda, EventBridge, S3 Cross-Account Replication, CloudWatch), Azure DevOps, Terraform, Docker, Hybrid Windows/RHEL Linux Runners
+- **AI Enablement & FinOps:** GitHub Copilot, Amazon Q, GitHub Copilot Metrics API, IBM Apptio, Splunk API, Power BI
+- **DevSecOps & CI/CD:** GitHub Enterprise, GitHub Actions, GitHub Advanced Security (GHAS), Azure Pipelines, Checkmarx (SAST/SCA), Secret Scanning, ServiceNow Integration
+- **Languages & Data:** Python, C#, .NET, React, TypeScript, PowerShell, Bash, Azure SQL
+
+## Primary Resources
+
+- [Portfolio & Architecture Case Studies](https://rakeshkrishnan.com/): Enterprise DevSecOps case studies, AI enablement work, and editable draw.io architecture diagrams.
+- [GitHub Profile](https://github.com/r4kris): Public repositories, DevSecOps templates, and automation tooling.
+- [LinkedIn Profile](https://www.linkedin.com/in/rakesh17684/): Full work history and direct recruiter messaging.
+<!-- Uncomment and fill in exact paths once live:
+- [AI FinOps Showback Architecture](https://rakeshkrishnan.com/REPLACE-PATH): EventBridge, Lambda, S3 Cross-Account Replication, and IBM Apptio walkthrough.
+- [Medium Technical Blog](https://medium.com/@REPLACE-HANDLE): Deep dives on DevSecOps, AI FinOps, and enterprise modernization.
+-->
+
+## Optional
+
+- **Career Background:** Senior/Lead DevSecOps & Platform Architect supporting SDG&E / Sempra (San Diego, CA, 2016–Present); Technology Lead & Software Engineer supporting Bank of America via Infosys (Atlanta, GA & Bangalore, India, 2006–2016), leading 8–10 engineers on real-time check fraud detection and 24x7x365 high-availability platforms.
+- **Certifications:** GitHub Copilot Certified, Certified Scrum Product Owner (CSPO), Professional Scrum Master (PSM).
+- **Education:** Bachelor of Engineering (B.E.) in Electronics and Instrumentation, Anna University, India.
 
 ## Profile
 - [Full profile in one file](https://rakeshkrishnan.com/llms-full.txt): Experience, skills matrix, accomplishments, certifications and education.
